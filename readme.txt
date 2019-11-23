@@ -1,0 +1,1 @@
+This is a demo project to learn, how annotation based mapping works.
